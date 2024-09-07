@@ -1,6 +1,8 @@
 # Google Summer of Code'24 @ Mautic
 
+
 ![GSoC'24 Mautic](/Image/Report.png)
+
 
 The report provides an overview of my contributions at mautic. My experience has been both rewarding and enlightening with the mautic. I had the privilege of getting the opportunity to showcase my skills and contribute to mautic marketplace. The report describes about my experience with the community and project.
 
