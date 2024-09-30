@@ -32,7 +32,7 @@ This project will expand the features of our Marketplace to make it more user-fr
 #### ✅ Enable the auth0 for authentication
 - To ensure the integrity and reliability of our rating and review system, we have implemented Auth0, a robust authentication platform. This enhancement requires users to authenticate themselves before they can rate or review plugins or themes, effectively preventing spam and ensuring the authenticity of user feedback.
 
-#### 🔳 Enable the edit option for rating and review
+#### ✅ Enable the edit option for rating and review
 - We will also enable the edit option so marketers can easily modify their existing reviews to reflect any new experiences or changes related to the new version of the plugin or the theme. As per changes, marketers can adjust their reviews to provide the most current feedback.
 
 ## 🎓 DELIVERABLES
