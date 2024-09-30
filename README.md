@@ -40,7 +40,7 @@ This project will expand the features of our Marketplace to make it more user-fr
 | TASKS                         |             STATUS                  |               commits                   |
 | :--------------: | :-------------------------------------------: |  :------------------------------------------------------------------: |
 | Solving the API limitations |            DONE                     |     [MarketPlace](https://github.com/mautic/mautic-marketplace)                                  |
-| Enabling the rating and review features |           DONE            |      WIP                                  |
+| Enabling the rating and review features |           DONE            |      [Rating_Reviews](https://github.com/mautic/marketplace-frontend)                                  |
 
 <details>
 
